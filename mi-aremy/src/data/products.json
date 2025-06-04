@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Camiseta Floral Rosa",
+    "image": "../../public/img/Logo.jpeg",
+    "sizes": ["S", "M", "L"]
+  },
+  {
+    "id": 2,
+    "title": "Blusa Vintage Azul",
+    "image": "../../public/img/Logo.jpeg",
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "id": 3,
+    "title": "Vestido Elegante Negro",
+    "image": "../../public/img/Logo.jpeg",
+    "sizes": ["S", "M"]
+  },
+  {
+    "id": 4,
+    "title": "Top Deportivo Blanco",
+    "image": "../../public/img/Logo.jpeg",
+    "sizes": ["XS", "S", "M"]
+  },
+  {
+    "id": 5,
+    "title": "Sudadera Oversize Beige",
+    "image": "../../public/img/Logo.jpeg",
+    "sizes": ["M", "L"]
+  },
+  {
+    "id": 6,
+    "title": "Falda Plisada Negra",
+    "image": "../../public/img/Logo.jpeg",
+    "sizes": ["S", "M", "L"]
+  },
+  {
+    "id": 7,
+    "title": "Chaqueta Denim Clásica",
+    "image": "../../public/img/Logo.jpeg",
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 8,
+    "title": "Pantalón Cargo Verde",
+    "image": "../../public/img/Logo.jpeg",
+    "sizes": ["M", "L"]
+  },
+  {
+    "id": 9,
+    "title": "Camiseta Básica Blanca",
+    "image": "../../public/img/Logo.jpeg",
+    "sizes": ["S", "M", "L"]
+  },
+  {
+    "id": 10,
+    "title": "Blazer Rosa Pastel",
+    "image": "../../public/img/Logo.jpeg",
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "id": 11,
+    "title": "Vestido Corto Azul Marino",
+    "image": "../../public/img/Logo.jpeg",
+    "sizes": ["S", "M"]
+  },
+  {
+    "id": 12,
+    "title": "Pantalones Anchos Marrón",
+    "image": "../../public/img/Logo.jpeg",
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "id": 13,
+    "title": "Top Corto Negro",
+    "image": "../../public/img/Logo.jpeg",
+    "sizes": ["XS", "S"]
+  },
+  {
+    "id": 14,
+    "title": "Falda Tubo Beige",
+    "image": "../../public/img/Logo.jpeg",
+    "sizes": ["S", "M", "L"]
+  },
+  {
+    "id": 15,
+    "title": "Blusa Lino Natural",
+    "image": "../../public/img/Logo.jpeg",
+    "sizes": ["M", "L"]
+  },
+  {
+    "id": 16,
+    "title": "Camiseta Estampada Morada",
+    "image": "../../public/img/Logo.jpeg",
+    "sizes": ["S", "M", "L"]
+  },
+  {
+    "id": 17,
+    "title": "Chaqueta Liviana Verde Menta",
+    "image": "../../public/img/Logo.jpeg",
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "id": 18,
+    "title": "Sudadera con Capucha Negra",
+    "image": "../../public/img/Logo.jpeg",
+    "sizes": ["S", "M", "L"]
+  },
+  {
+    "id": 19,
+    "title": "Top Halter Celeste",
+    "image": "../../public/img/Logo.jpeg",
+    "sizes": ["S", "M"]
+  },
+  {
+    "id": 20,
+    "title": "Falda Midi Roja",
+    "image": "../../public/img/Logo.jpeg",
+    "sizes": ["M", "L"]
+  }
+]

@@ -1,0 +1,71 @@
+:root {
+  --rosa: #F06292;
+  --rojo: #C62828;
+  --blanco: #FFFFFF;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: var(--blanco);
+  color: #333;
+}
+
+.navbar {
+  background-color: var(--rosa);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+}
+
+.logo {
+  color: var(--blanco);
+  font-size: 1.5rem;
+}
+
+.nav-links {
+  display: flex;
+  gap: 1.5rem;
+  list-style: none;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: var(--blanco);
+  font-weight: bold;
+}
+
+.cart-widget {
+  display: flex;
+  align-items: center;
+  color: var(--blanco);
+  position: relative;
+}
+
+.cart-count {
+  background-color: var(--rojo);
+  color: white;
+  font-size: 0.75rem;
+  border-radius: 50%;
+  padding: 2px 6px;
+  position: absolute;
+  top: -8px;
+  right: -10px;
+}
+
+.item-list-container {
+  padding: 2rem;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+  }
+
+  .nav-links {
+    flex-direction: column;
+    align-items: center;
+  }
+}

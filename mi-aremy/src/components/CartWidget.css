@@ -1,0 +1,21 @@
+/* CartWidget.css */
+/* Estilos para el ícono del carrito de compras */
+
+.cart-widget {
+    position: relative;
+    cursor: pointer;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.cart-count {
+    position: absolute;
+    top: -8px;
+    right: -10px;
+    background-color: #C62828; /* rojo */
+    color: white;
+    font-size: 0.75rem;
+    padding: 2px 6px;
+    border-radius: 50%;
+    font-weight: bold;
+}

@@ -1,0 +1,32 @@
+/* NavBar.css */
+/* Estilos para la barra de navegación de Mi Aremy */
+.navbar {
+    background-color: #F06292;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.navbar-left .logo img {
+    height: 50px;
+    cursor: pointer;
+}
+
+.navbar-right {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #333;
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #d32f2f;
+}

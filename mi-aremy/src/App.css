@@ -1,0 +1,92 @@
+/* Reset básico para que se vea bien */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html, #root {
+  height: 100%;
+  font-family: Arial, sans-serif;
+}
+
+/* Contenido principal para separar de navbar y footer */
+.contenido-principal {
+  min-height: calc(100vh - 140px); /* altura total menos navbar + footer */
+  padding: 2rem 1rem;
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* Título inicio en rojo */
+.titulo-inicio {
+  color: red;
+  margin-bottom: 2rem;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+/* Productos principales en fila */
+.productos-principales {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.producto {
+  width: 300px;
+  text-align: center;
+}
+
+.producto img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.producto p {
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  color: #444;
+}
+
+/* Descripción debajo de productos */
+.descripcion-pagina {
+  max-width: 600px;
+  margin: 0 auto 3rem auto;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+/* Footer fijo al fondo */
+footer {
+  background-color: #222;
+  color: white;
+  padding: 1rem 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+/* Contenedor de íconos sociales */
+.footer-icons {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 0.5rem;
+}
+
+.footer-icons a {
+  color: white;
+  font-size: 1.8rem;
+  transition: color 0.3s ease;
+}
+
+.footer-icons a:hover {
+  color: #ff4081;
+}

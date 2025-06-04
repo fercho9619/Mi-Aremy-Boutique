@@ -1,0 +1,11 @@
+/* ItemListContainer.css */
+/* Estilos para el contenedor principal de productos */
+
+.item-list-container {
+    padding: 2rem;
+    background-color: #FFFFFF; /* fondo blanco */
+    color: #C62828; /* texto rojo */
+    font-size: 1.25rem;
+    font-weight: 500;
+    text-align: center;
+}

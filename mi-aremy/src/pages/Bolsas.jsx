@@ -1,7 +1,7 @@
-// src/pages/Productos.jsx
-import "./Productos.css";
+// src/pages/Bolsas.jsx
+import "./Bolsas.css";
 
-const Productos = () => {
+const Bolsas = () => {
         return (
         <div>
         <h1>Bolsas</h1>
@@ -10,4 +10,4 @@ const Productos = () => {
     );
 };
 
-export default Productos;
+export default Bolsas;

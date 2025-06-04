@@ -1,4 +1,4 @@
-const Nosotros = () => {
+const Zapatos = () => {
     return (
         <div>
         <h1>zapatos</h1>
@@ -7,4 +7,4 @@ const Nosotros = () => {
     );
 };
 
-export default Nosotros;
+export default Zapatos;

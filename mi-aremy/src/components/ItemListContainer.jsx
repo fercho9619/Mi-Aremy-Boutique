@@ -1,10 +1,12 @@
+import React from 'react';
 import "./ItemListContainer.css";
 
 const ItemListContainer = ({ greeting }) => {
   return (
-    <section className="item-list-container">
-      <h2>{greeting}</h2>
-    </section>
+    <div className="container">
+      <h2 className="greeting">{greeting}</h2>
+      {/* Futuro contenido de productos */}
+    </div>
   );
 };
 
